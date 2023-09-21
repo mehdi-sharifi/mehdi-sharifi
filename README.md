@@ -46,8 +46,9 @@ Fun Facts 🎉
 🚀 I'm on a mission to make the digital world safer, one line of code at a time.
 🎮 When I'm not securing networks, you can find me exploring new video games.
 🎶 My code is powered by coffee and a good soundtrack.
+```
+
 <div align="center">
   <p>Thanks for stopping by!</p>
   <img src="https://komarev.com/ghpvc/?username=mehdi-sharifi" alt="Profile Views">
 </div>
-```
