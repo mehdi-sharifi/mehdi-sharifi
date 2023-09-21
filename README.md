@@ -2,6 +2,12 @@
   <h1>Hello, World! 👋</h1>
   <p>Welcome to my corner of the Internet!</p>
 </div>
+
+<div align="center">
+  <p>Thanks for stopping by!</p>
+  <img src="https://komarev.com/ghpvc/?username=mehdi-sharifi" alt="Profile Views">
+</div>
+
 ![DevSecWorld Banner](https://img.shields.io/static/v1?label=DevSecWorld&message=Security Engineer&color=blue)
 
 ```plaintext
@@ -48,7 +54,3 @@ Fun Facts 🎉
 🎶 My code is powered by coffee and a good soundtrack.
 ```
 
-<div align="center">
-  <p>Thanks for stopping by!</p>
-  <img src="https://komarev.com/ghpvc/?username=mehdi-sharifi" alt="Profile Views">
-</div>
